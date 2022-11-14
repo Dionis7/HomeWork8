@@ -1,0 +1,15 @@
+E:\HomeWork8\task58\bin\Debug\net6.0\task58.exe
+E:\HomeWork8\task58\bin\Debug\net6.0\task58.deps.json
+E:\HomeWork8\task58\bin\Debug\net6.0\task58.runtimeconfig.json
+E:\HomeWork8\task58\bin\Debug\net6.0\task58.dll
+E:\HomeWork8\task58\bin\Debug\net6.0\task58.pdb
+E:\HomeWork8\task58\obj\Debug\net6.0\task58.csproj.AssemblyReference.cache
+E:\HomeWork8\task58\obj\Debug\net6.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+E:\HomeWork8\task58\obj\Debug\net6.0\task58.AssemblyInfoInputs.cache
+E:\HomeWork8\task58\obj\Debug\net6.0\task58.AssemblyInfo.cs
+E:\HomeWork8\task58\obj\Debug\net6.0\task58.csproj.CoreCompileInputs.cache
+E:\HomeWork8\task58\obj\Debug\net6.0\task58.dll
+E:\HomeWork8\task58\obj\Debug\net6.0\refint\task58.dll
+E:\HomeWork8\task58\obj\Debug\net6.0\task58.pdb
+E:\HomeWork8\task58\obj\Debug\net6.0\task58.genruntimeconfig.cache
+E:\HomeWork8\task58\obj\Debug\net6.0\ref\task58.dll
